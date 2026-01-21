@@ -54,3 +54,6 @@ See: `udf/Bingham_viscosity_udf.c`
 
 ## Credits
 Team project (B.E. Aerospace Engineering, 2022–23).
+
+## Engineering Impact
+This project demonstrates the integration of mechanical design, structural analysis, and controllable fluid modeling for aerospace landing gear systems. The use of MR fluid enables adaptive damping behavior, which can improve landing performance across varying sink rates and aircraft weights.
