@@ -1,0 +1,21 @@
+# ANSYS
+*.wbpj
+*.wbpz
+*.rdb
+*.out
+*.rst
+*.dat
+*.log
+
+# AutoCAD
+*.bak
+*.dwl
+*.dwl2
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.exe
+*.o
