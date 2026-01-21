@@ -28,6 +28,14 @@ Designed and analyzed a magneto-rheological (MR) fluid shock absorber concept fo
 - Applied load used in the report: 5437 kN
 - Outputs reviewed: total deformation, equivalent strain, equivalent stress
 
+## Results & Visuals
+
+### CAD Model
+![MR Damper CAD](media/cad_model.png)
+
+### ANSYS Mesh
+![ANSYS Simulation](media/ansys_simulation.png)
+
 ## MR Fluid Notes (from literature summary)
 - Off-state viscosity range noted: ~0.1 to 1 Pa·s (ambient conditions)
 - On-state yield stress values noted: typical ~20 to 1000 kPa; viscosity can increase orders of magnitude with field
